@@ -6,7 +6,7 @@ You need to manually install scrcpy in order to use this program.
 
 1. Download the release https://github.com/Genymobile/scrcpy/releases/tag/v4.1
 2. Un-zip the archive
-3. Copy the adb, scrcpy, and the scrcpy-server files into the res folder 
+3. Copy the adb, scrcpy, scrcpy.1 and the scrcpy-server files into the res folder 
 
 # Download
 On Linux:
