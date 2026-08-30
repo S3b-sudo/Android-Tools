@@ -1,0 +1,1 @@
+source AT/bin/activate && python Android_tools.py
