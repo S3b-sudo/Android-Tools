@@ -2,11 +2,7 @@
 The swiss army knife for all things android.
 
 # ⚠️ IMPORTANT
-You need to manually install scrcpy in order to use this program.
-
-1. Download the release https://github.com/Genymobile/scrcpy/releases/tag/v4.1
-2. Un-zip the archive
-3. Copy the adb, scrcpy, scrcpy.1 and the scrcpy-server files into the res folder 
+This tool has some functions that may cause damage to your device, I am not responsible if that happens.
 
 # Download
 On Linux:
@@ -22,3 +18,16 @@ Try it yourself and see what happens, or try WSL.
 
 ## Run
  To run the project run `'./run.sh'`
+
+# Scrcpy Manual Install
+You can use this if there is a new version of scrcpy.
+
+1. Download the latest release https://github.com/Genymobile/scrcpy/
+2. Un-zip the archive
+3. rename the folder to scrcpy
+
+#Screenshots
+TBA
+
+#Notes
+This is pretty much just a terminal front end for ADB and SCRCPY. 
