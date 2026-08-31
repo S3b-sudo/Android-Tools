@@ -23,7 +23,7 @@ Try it yourself and see what happens, or try WSL.
 You can use this if there is a new version of scrcpy.
 
 1. Download the latest release https://github.com/Genymobile/scrcpy/
-2. Un-zip the archive
+2. Un-zip the archive in the res folder
 3. rename the folder to scrcpy
 
 #Screenshots
