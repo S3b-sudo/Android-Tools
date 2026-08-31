@@ -38,5 +38,5 @@ Dumpsys extraction options
 ![Android Tools](img/3.png)
 Settings manager
 
-#Notes
+## Notes
 This is pretty much just a terminal front end for ADB and SCRCPY. You can use this for stuff like re-assigning the default launcher on a fire tablet or uninstalling bloat. 
