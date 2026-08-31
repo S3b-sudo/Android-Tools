@@ -1,4 +1,4 @@
-# ![Android Tools](img/logo.png)
+# ![Android Tools](img/Logo.png)
 The swiss army knife for all things android.
 
 # ⚠️ IMPORTANT
@@ -26,8 +26,16 @@ You can use this if there is a new version of scrcpy.
 2. Un-zip the archive in the res folder
 3. rename the folder to scrcpy
 
-#Screenshots
-TBA
+## Screenshots
+
+![Android Tools](img/1.png)
+All Options
+
+![Android Tools](img/2.png)
+Dumpsys extraction options
+
+![Android Tools](img/3.png)
+Settings manager
 
 #Notes
 This is pretty much just a terminal front end for ADB and SCRCPY. 
