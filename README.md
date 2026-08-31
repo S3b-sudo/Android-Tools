@@ -3,6 +3,7 @@ The swiss army knife for all things android.
 
 # ⚠️ IMPORTANT
 This tool has some functions that may cause damage to your device, I am not responsible if that happens.
+Use this tool responsibly.
 
 # Download
 On Linux:
@@ -38,4 +39,4 @@ Dumpsys extraction options
 Settings manager
 
 #Notes
-This is pretty much just a terminal front end for ADB and SCRCPY. 
+This is pretty much just a terminal front end for ADB and SCRCPY. You can use this for stuff like re-assigning the default launcher on a fire tablet or uninstalling bloat. 
