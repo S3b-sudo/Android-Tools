@@ -14,7 +14,7 @@ TYPE = "_adb-tls-pairing._tcp.local."
 NAME = "Android-Tools-Paring"
 PASSWORD = randint(100000, 999999)
 FORMAT_QR = "WIFI:T:ADB;S:{name};P:{password};;"
-CMD_PAIR = "adb pair {ip}:{port} {code}"
+CMD_PAIR = "./res/scrcpy/adb pair {ip}:{port} {code}"
 SUCCESS_MSG = "Successfully paired"
 
 
@@ -59,9 +59,9 @@ def main() -> None:
         format="%(asctime)s - %(levelname)s - %(message)s",
     )
 
-    if not which("adb"):
+    if not which("./res/scrcpy/adb"):
         print(
-            f"{Fore.RED}[Error] adb not found in your PATH. Please ensure that adb is installed and added to your PATH.{Fore.RESET}",
+            f"{Fore.RED}[Error] adb not found in res/scrcpy.{Fore.RESET}",
         )
         exit(1)
 
