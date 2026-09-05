@@ -5,6 +5,8 @@ The swiss army knife for all things android.
 This tool has some functions that may cause damage to your device, I am not responsible if that happens.
 Use this tool responsibly.
 
+Only use this tool on your own devices or on a device with permission from its owner.  
+
 # Download
 On Linux:
 
